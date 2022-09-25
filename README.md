@@ -1,2 +1,2 @@
 # kesari-iitkgp.github.io
-## Exercise
+## Exercise 1
